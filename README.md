@@ -6,5 +6,6 @@
 
 ## Green Low Contrast Room
 
-* Blackmagic Pocket Chinema 4K Filmモードでの撮影前提
+* 部屋録り用のLUT
 * 明るさなどはA-tak宅の照明環境に合わせてます(Sorry!)
+* Blackmagic Pocket Chinema 4K Filmモードでの撮影前提
