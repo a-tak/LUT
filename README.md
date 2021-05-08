@@ -1,4 +1,4 @@
-# A-tak LUT Colleection
+# A-tak LUT Collection
 
 ## 概要
 
