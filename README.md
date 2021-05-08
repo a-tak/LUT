@@ -9,3 +9,6 @@
 * 部屋録り用のLUT
 * 明るさなどはA-tak宅の照明環境に合わせてます(Sorry!)
 * Blackmagic Pocket Chinema 4K Filmモードでの撮影前提
+* DaVinci ResolveのRCMを以下にしている前提
+  * Resolve color management preset : DaVinci Wide Gamut
+  * Output color space : Rec.709 Gamma 2.4
