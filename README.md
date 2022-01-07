@@ -8,7 +8,7 @@
 
 * 部屋録り用のLUT
 * 明るさなどはA-tak宅の照明環境に合わせてます(Sorry!)
-* Blackmagic Pocket Chinema 4K Filmモードでの撮影前提
+* Blackmagic Pocket Cinema 4K Filmモードでの撮影前提
 * DaVinci ResolveのRCMを以下にしている前提
   * カラーサイエンス : DaVinci YRGB Color Managed
   * Color processing mode : Custom
@@ -39,3 +39,18 @@
 * 部屋録り用LUT
 * シャドウ部分をティール寄りにシフトし持ち上げ気味にした
 * 明るさ調整はLUTでは行ってない
+
+## A-tak Room Flat for BMPCC
+
+* Blackmagic Pocket Cinema 4K Filmモード 部屋録り用LUT
+* 色変更無しの明るさ、コントラストのみ調整
+
+## A-tak High Contrast CT125
+
+* Blackmagic Pocket Cinema 4K Filmモード 屋外撮影用LUT
+* 色変更無しの明るさ、コントラストのみ調整
+
+## A-tak Teal Orange CT125
+
+* Blackmagic Pocket Cinema 4K Filmモード 屋外撮影用LUT
+* ティール&オレンジ
