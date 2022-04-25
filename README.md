@@ -54,3 +54,9 @@
 
 * Blackmagic Pocket Cinema 4K Filmモード 屋外撮影用LUT
 * ティール&オレンジ
+
+## A-tak Teal Orange Dark Contrast
+
+* Blackmagic Pocket Cinema 4K Filmモード 屋外撮影用LUT
+* ティール&オレンジ
+* シャドウ部を黒潰し
